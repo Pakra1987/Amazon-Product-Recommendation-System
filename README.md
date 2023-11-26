@@ -19,6 +19,7 @@ The goal is to extract meaningful insights from the data and build a recommendat
   a) User-User Similarity-based Recommendation System
   b) Item-Item Similarity-based Recommendation System
 3) Model-Based Collaborative Filtering - Matrix Factorization
+4) Grid search
 
 # Dataset:
 The Amazon dataset contains the following attributes:
