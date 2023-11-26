@@ -3,6 +3,7 @@
 # Context:
 Today, information is growing exponentially with volume, velocity and variety throughout the globe. This has lead to information overload, and too many choices for the consumer of any business. 
 It represents a real dilemma for these consumers and they often turn to denial. 
+
 E-commerce websites like Amazon, Walmart, Target and Etsy use different recommendation models to provide personalized suggestions to different users. 
 Amazon, for example, is well-known for its accurate selection of recommendations in its online site. 
 Amazon's recommendation system is capable of intelligently analyzing and predicting customers' shopping preferences in order to offer them a list of recommended products. 
