@@ -13,7 +13,7 @@ You are a Data Science Manager at Amazon, and have been given the task of buildi
 You have a collection of labeled data of Amazon reviews of products. 
 The goal is to extract meaningful insights from the data and build a recommendation system that helps in recommending products to online consumers.
 
-# Dataset:
+# Techniques used:
 1) Rank Based Recommendation System
 2) Collaborative Filtering Recommendation System
   a) User-User Similarity-based Recommendation System
